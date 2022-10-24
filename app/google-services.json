@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49487927057",
+    "project_id": "idml-ebe2c",
+    "storage_bucket": "idml-ebe2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49487927057:android:57e75657b7e46846b91eb0",
+        "android_client_info": {
+          "package_name": "com.example.idml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49487927057-m4qo6c1ho810km3vo0tdtaa77jt9lk98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bWcbnlMXTzHQPSerG0QpY2cjyAh_x9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49487927057-m4qo6c1ho810km3vo0tdtaa77jt9lk98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
